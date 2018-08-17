@@ -1,5 +1,5 @@
 
-import BigNumber from 'bignumber.js'
+import BigNumber from 'bignumber.js-4.1.0'
 import {dropsToXrp} from '../../common'
 
 function parseFeeUpdate(tx: any) {
