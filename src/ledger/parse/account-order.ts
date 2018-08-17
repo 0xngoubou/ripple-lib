@@ -1,4 +1,4 @@
-import BigNumber from 'bignumber.js'
+import BigNumber from 'bignumber.js-4.1.0'
 import parseAmount from './amount'
 import {parseTimestamp, adjustQualityForXRP} from './utils'
 import {removeUndefined} from '../../common'
