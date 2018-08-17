@@ -1,5 +1,5 @@
 import * as _ from 'lodash'
-import BigNumber from 'bignumber.js'
+import BigNumber from 'bignumber.js-4.1.0'
 import {getXRPBalance, renameCounterpartyToIssuer} from './utils'
 import {validate, toRippledAmount, errors} from '../common'
 import {Connection} from '../common'
