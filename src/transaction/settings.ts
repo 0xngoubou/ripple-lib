@@ -1,6 +1,6 @@
 import * as _ from 'lodash'
 import * as assert from 'assert'
-import BigNumber from 'bignumber.js'
+import BigNumber from 'bignumber.js-4.1.0'
 import * as utils from './utils'
 const validate = utils.common.validate
 const AccountFlagIndices = utils.common.constants.AccountFlagIndices
