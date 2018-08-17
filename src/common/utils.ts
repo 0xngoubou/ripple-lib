@@ -1,5 +1,5 @@
 import * as _ from 'lodash'
-import BigNumber from 'bignumber.js'
+import BigNumber from 'bignumber.js-4.1.0'
 import {deriveKeypair} from 'ripple-keypairs'
 import {Amount, RippledAmount} from './types/objects'
 import {ValidationError} from './errors'
