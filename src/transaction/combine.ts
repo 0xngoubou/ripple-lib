@@ -1,7 +1,7 @@
 import * as _ from 'lodash'
 import binary = require('ripple-binary-codec')
 import * as utils from './utils'
-import BigNumber from 'bignumber.js'
+import BigNumber from 'bignumber.js-4.1.0'
 import {decodeAddress} from 'ripple-address-codec'
 import {validate} from '../common'
 import {computeBinaryTransactionHash} from 'ripple-hashes'
