@@ -1,4 +1,4 @@
-import BigNumber from 'bignumber.js'
+import BigNumber from 'bignumber.js-4.1.0'
 import * as common from '../common'
 import {Memo} from '../common/types/objects'
 const txFlags = common.txFlags
